@@ -93,7 +93,7 @@ const Inbox: NextPage = () => {
           )}
 
         </div>
-        <button type='button' id='chatbottonn' className={`${move ? 'moving':''} activee`} onClick={()=>setmove(!move)}>⟪ ⟫</button>
+        <button type='button' id='chatbottonn' className={`${move ? 'moving':''} activee`} onClick={()=>setmove(!move)}>👁️</button>
 
       </div>
     </div>
